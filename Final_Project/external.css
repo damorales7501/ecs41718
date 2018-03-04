@@ -1,3 +1,12 @@
 Body {
-      background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+     background-image: linear-gradient(to right, #fff1eb 0%, #ace0f9 100%);
      }
+.jumbotron{
+     background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+          }
+Button {
+     background-color:#fad0c4;
+}
+.thick {
+    font-weight: bold;
+}
